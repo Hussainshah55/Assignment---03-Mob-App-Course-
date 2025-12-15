@@ -1,0 +1,9 @@
+{
+  "name": "GeoSnap AI",
+  "description": "Capture moments, tag with GPS, and analyze context with Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
